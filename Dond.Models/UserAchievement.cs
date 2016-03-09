@@ -10,6 +10,5 @@ namespace Dond.Models
     {
         public int UserId { get; set; }
         public int AchievementId { get; set; }
-        public int bc { get; set; }
     }
 }
